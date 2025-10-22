@@ -64,8 +64,7 @@ I enjoy exploring real-world problems, applying analytical thinking, and using d
 
 ## 📫 Get in Touch
 
-- 📧 Email: [vaishpranay111@gmail.com](mailto:vaishpranay111@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/pranayvaish](https://linkedin.com/in/pranayvaish) *(optional — add once created)*  
+- 📧 Email: [vaishpranay111@gmail.com](mailto:vaishpranay111@gmail.com)    
 - 🌐 GitHub: [github.com/PranayVaish](https://github.com/PranayVaish)
 
 ---
