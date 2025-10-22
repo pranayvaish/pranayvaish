@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I am a final-year **B.Tech (Computer Science)** student at **Goel Institute of Technology and Management (AKTU)**, Lucknow.  
+I am a **B.Tech (Computer Science)** graduate student from **Goel Institute of Technology and Management (AKTU)**, Lucknow.  
 I’m passionate about transforming complex data into actionable insights through **statistical analysis, data visualization, and machine learning**.  
 
 I enjoy exploring real-world problems, applying analytical thinking, and using data-driven methods to make impactful decisions.
